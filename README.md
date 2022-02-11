@@ -1,2 +1,2 @@
 # ReactProject-Ecommerce
-Creating a e-commerce web app with react
+Creating an e-commerce web app with react
